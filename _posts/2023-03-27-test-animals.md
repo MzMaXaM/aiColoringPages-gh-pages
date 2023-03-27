@@ -4,9 +4,12 @@ title: "Animals"
 author: "MzMaXaM"
 categories: facts
 tags: [quokka, animals]
-image: arctic-1.jpg
+image: animals-1.jpg
 ---
 
 
 
-[![quokka wearing glasses](https://mzmaxam.github.io/aiColoringPages-gh-pages/assets/img/00541.jpg)](https://mzmaxam.github.io/aiColoringPages-gh-pages/assets/img/00540.jpg "quokka wearing glasses")
+[![quokka wearing glasses](https://mzmaxam.github.io/aiColoringPages-gh-pages/assets/img/00540_preview.jpg)](https://mzmaxam.github.io/aiColoringPages-gh-pages/assets/img/00540.jpg "quokka in the bushes")
+[![quokka wearing glasses](https://mzmaxam.github.io/aiColoringPages-gh-pages/assets/img/00541_preview.jpg)](https://mzmaxam.github.io/aiColoringPages-gh-pages/assets/img/00541.jpg "quokka wearing glasses")
+[![quokka wearing glasses](https://mzmaxam.github.io/aiColoringPages-gh-pages/assets/img/00542_preview.jpg)](https://mzmaxam.github.io/aiColoringPages-gh-pages/assets/img/00542.jpg "bear wearing a beret")
+[![quokka wearing glasses](https://mzmaxam.github.io/aiColoringPages-gh-pages/assets/img/00543_preview.jpg)](https://mzmaxam.github.io/aiColoringPages-gh-pages/assets/img/00543.jpg "fox wearing a top hat")
