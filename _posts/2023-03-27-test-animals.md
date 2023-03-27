@@ -9,4 +9,4 @@ image: 00541.jpg
 
 quokka wearing glasses
 
-![quokka wearing glasses](/assets/img/00541.jpg)
+![quokka wearing glasses](https://mzmaxam.github.io/aiColoringPages-gh-pages/assets/img/00541.jpg)
