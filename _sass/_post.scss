@@ -18,7 +18,7 @@
 p {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 @media (max-width: $container-width) {
   .post-content {

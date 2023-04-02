@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Anime Girls
+title: Girls
 category: girls
 permalink: /girls
 ---
